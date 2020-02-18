@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Docx4jReadAndWriteIntegrationTest" project="report" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="report.Docx4jReadAndWriteIntegrationTest" time="8.231">
+    <testcase name="givenWordPackage_whenTextExist_thenReturnTrue" classname="report.Docx4jReadAndWriteIntegrationTest" time="8.231"/>
+  </testsuite>
+</testrun>
